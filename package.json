@@ -1,7 +1,7 @@
 {
-  "name": "react-vite-tailwind",
-  "private": true,
-  "version": "0.0.0",
+  "name": "veritas-universal-rigor-guard-v15", 
+  "version": "1.0.0",
+  "description": "Veritas Universal Rigor Guard - V15 Terminal",
   "type": "module",
   "scripts": {
     "dev": "vite",
